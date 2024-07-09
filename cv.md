@@ -24,7 +24,7 @@ console.log(mult(2, 3))
 ```
 
 ## Experience
-Currently, I have been working with small web projects and applications and I really want to learn and develop new skills.
+Currently, I have been working with small web projects and applications for about 2 years and I really want to learn and develop new skills.
 
 ## Education
 * **Univercity:** BMSTU (Bauman Moscow State Technical University)
